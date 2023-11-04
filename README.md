@@ -1,6 +1,6 @@
 Verilog to bench converter for <Tsmc18_component, fast.db>
 
- -------------------------------------------------------------------------------
+ 
  Copyright 2021, Benjamin Tan <benjamin.tan@nyu.edu>
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,10 +12,10 @@ Verilog to bench converter for <Tsmc18_component, fast.db>
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
- -------------------------------------------------------------------------------
+
  Last modified by: Mona Hashemi <hashemi.mona@ut.ac.ir>, 2023
  DSD Lab @ University of Tehran, Iran
  CompArch Group @ National University of Singapore, Singapore
- -------------------------------------------------------------------------------
+ 
  python3 tobench.py -i INPUT_FILE -o OUTPUT_FILE
- -------------------------------------------------------------------------------
+ 
